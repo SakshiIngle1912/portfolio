@@ -3,7 +3,7 @@
     "short_name":"PORTFOLIO",
     "description":"Sakshi's Portfolio, Having 1 year of experience as fronted developer",
     "orientation":"portrait",
-    "start_url":"/Portfolio",
+    "start_url":"/portfolio",
     "background_color":"#F00",
     "theme_color":"#0FF",
     "display":"standalone",
